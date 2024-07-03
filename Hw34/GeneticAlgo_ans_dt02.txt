@@ -1,0 +1,92 @@
+Run 1: 
+max profit:1458
+solution:101010111000011
+Run 2: 
+max profit:1458
+solution:101010111000011
+Run 3: 
+max profit:1458
+solution:101010111000011
+Run 4: 
+max profit:1455
+solution:110001111000011
+Run 5: 
+max profit:1458
+solution:101010111000011
+Run 6: 
+max profit:1458
+solution:101010111000011
+Run 7: 
+max profit:1458
+solution:101010111000011
+Run 8: 
+max profit:1458
+solution:101010111000011
+Run 9: 
+max profit:1458
+solution:101010111000011
+Run 10: 
+max profit:1458
+solution:101010111000011
+Run 11: 
+max profit:1458
+solution:101010111000011
+Run 12: 
+max profit:1458
+solution:101010111000011
+Run 13: 
+max profit:1458
+solution:101010111000011
+Run 14: 
+max profit:1458
+solution:101010111000011
+Run 15: 
+max profit:1458
+solution:101010111000011
+Run 16: 
+max profit:1456
+solution:011100111000011
+Run 17: 
+max profit:1458
+solution:101010111000011
+Run 18: 
+max profit:1458
+solution:101010111000011
+Run 19: 
+max profit:1458
+solution:101010111000011
+Run 20: 
+max profit:1458
+solution:101010111000011
+Run 21: 
+max profit:1456
+solution:011100111000011
+Run 22: 
+max profit:1458
+solution:101010111000011
+Run 23: 
+max profit:1458
+solution:101010111000011
+Run 24: 
+max profit:1458
+solution:101010111000011
+Run 25: 
+max profit:1458
+solution:101010111000011
+Run 26: 
+max profit:1458
+solution:101010111000011
+Run 27: 
+max profit:1458
+solution:101010111000011
+Run 28: 
+max profit:1456
+solution:011100111000011
+Run 29: 
+max profit:1458
+solution:101010111000011
+Run 30: 
+max profit:1458
+solution:101010111000011
+
+Best object value in 30 runs: 1457.70
